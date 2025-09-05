@@ -1,0 +1,1 @@
+quote ="Shakespeare once said 'sweet are the uses of adversity.'"
